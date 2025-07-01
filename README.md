@@ -13,7 +13,7 @@ This time around:
 - Connected it using `<link rel="stylesheet" href="style.css>` inside our HTML files
 - Played around with colours, fonts, and simple CSS properties to get comfortable with styling
 
-It was basically a remix of Week 1 with a new wardrobe. This is where CSS enteredthe chat.
+It was basically a remix of Week 1 with a new wardrobe. This is where CSS entered the chat.
 
 Folder: `Web ka S'now`
 Still the same structure - just with added style.
