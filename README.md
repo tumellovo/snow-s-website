@@ -21,6 +21,18 @@ Still the same structure - just with added style.
 ---
 
 ## Part Two: S'now's Website
+
+After testing the waters with CSS, we started a brand new project from scratch - a site themed around the **Avengers**!
+
+This site includes:
+- An `index.html`
+- Six pages for each select Avengers (1-6)
+- An `about.html` and `contact.html`
+- One shared `style.css` to style it all
+
+It was a great exercise in building something more complex, with a consistent look across multiple pages.
+
+Folder: `S'now's Website`
 A fresh build from the ground up using everything we've learned so far.
 
 ---
